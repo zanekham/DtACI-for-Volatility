@@ -38,6 +38,6 @@ The system is designed to evaluate models using **time-series-aware cross-valida
 
 ## 📁 Repository Structure
 
-Final_InitialTest_AllModels - Code for implementing DtACI on the forecasted volatilty of a specified Aerospace Stock using multiple ML and Economtric models.
-FInal_TTest_LROnly - Code for a further investigation into the effects of using the VIX and an Aerospace ETF to enhance Linear Regression forecasting, along with evaluation of feature importance with a T-Test.
-Final_Window_Finder - Code for an averaged iterative test which determines the most accurate and efficient combination of rolling volatility windows to forecast volatility. 
+- Final_InitialTest_AllModels - Code for implementing DtACI on the forecasted volatilty of a specified Aerospace Stock using multiple ML and Economtric models.
+- FInal_TTest_LROnly - Code for a further investigation into the effects of using the VIX and an Aerospace ETF to enhance Linear Regression forecasting, along with evaluation of feature importance with a T-Test.
+- Final_Window_Finder - Code for an averaged iterative test which determines the most accurate and efficient combination of rolling volatility windows to forecast volatility. 
